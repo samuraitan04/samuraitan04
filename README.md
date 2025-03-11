@@ -2,6 +2,10 @@ Hi! I'm a passionate technophile and aspiring entrepreneur, constantly exploring
 
 # Languages and Tools
 
+### languages
+
+[![languages](https://skillicons.dev/icons?i=c,java,py,sklearn,tensorflow)](https://skillicons.dev)
+
 ### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js)](https://skillicons.dev)
@@ -14,9 +18,9 @@ Hi! I'm a passionate technophile and aspiring entrepreneur, constantly exploring
 
 [![Design](https://skillicons.dev/icons?i=figma,ps,pr)](https://skillicons.dev)
 
-### Tools
+### Tools/Environments
 
-[![Tools](https://skillicons.dev/icons?i=git,vscode,windows,linux)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,bash,vscode,windows,linux,apple,discord,notion,obsidian)](https://skillicons.dev)
 
 <div align="right">
   
