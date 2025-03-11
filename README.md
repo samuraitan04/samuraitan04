@@ -1,6 +1,6 @@
 Hi! I'm a **passionate technophile** and **aspiring entrepreneur**, constantly exploring the latest advancements in technology. My journey is driven by a strong desire to innovate, learn, and create impactful solutions. I am committed to pushing the boundaries of what's possible, with the goal of making a significant mark in the tech world. Whether it's through experimenting with new tools, mastering emerging technologies, or turning bold ideas into reality, my mission is to stay at the forefront of innovation and build a lasting legacy in the ever-evolving tech industry.
 
-![image]([https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # Languages and Tools
 
