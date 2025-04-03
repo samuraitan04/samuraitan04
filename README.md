@@ -6,7 +6,11 @@ Hi! I'm a **passionate technophile** and **aspiring entrepreneur**, constantly e
 
 ### languages
 
-[![languages](https://skillicons.dev/icons?i=c,java,py,sklearn,tensorflow)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=c,java,py,rust)](https://skillicons.dev)
+
+### Frameworks
+
+[![Frontend](https://skillicons.dev/icons?i=sklearn,tensorflow,react)](https://skillicons.dev)
 
 ### Frontend
 
